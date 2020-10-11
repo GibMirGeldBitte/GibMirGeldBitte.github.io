@@ -2,6 +2,15 @@
 background-color:rgb(128, 128, 128);
 }
 
+.zentrieren{
+text-align:center;
+}
+
+.zentrieren1{
+margin-left:auto;
+margin-right:auto;
+}
+
 a{
 color:white;
 text-decoration:none;
@@ -118,11 +127,15 @@ justify-content:center;
 height:1px;
 width:500px;
 background-color:white;
+margin-left:auto;
+margin-right:auto;
 }
 
 .flex_item_trenner{
 height:1px;
 width:300px;
+margin-left:auto;
+margin-right:auto;
 }
 
 .flex_container_hauptseite_auswahl{
@@ -215,7 +228,7 @@ flex-wrap:wrap;
 justify-content:center;
 align-content:center;
 
-height600px;
+
 width:1200px;
 }
 
