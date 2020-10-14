@@ -272,3 +272,25 @@ border-color:white;
 border-width:1px;
 text-align:left;
 }
+
+.flex_container_hauptseite_gesamt{
+display:flex;
+border-style:solid;
+border-width:10px;
+border-color:rgb(102, 98, 100);
+margin-left:auto;
+margin-right:auto;
+justify-content:center;
+align-items:center;
+
+height:100px;
+width:500px;
+}
+
+.flex_item_hauptseite_gesamt{
+height:60px;
+
+border-style:solid;
+border-width:5px;
+border-color:rgb(102, 98, 100);
+}
